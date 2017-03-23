@@ -1,6 +1,6 @@
 # paytmChallenge
 
-# By Sunil Udhayakumar
+# Sunil Udhayakumar
   sunil.t.udhayakumar@gmail.com 
 
 #The task is to create a ranking list for merchants depending upon various criterias. A merchant score is created using normalisation and z-scoring. 
@@ -16,4 +16,4 @@
   
     There were a few merchants who sold products with selling price higher than the Quoted Price. - These Merchants also suffered from high cancellations and returns.
        -> The list is also attached as "invalid_sales.csv"
-    
+       -> More investigation must be done.
