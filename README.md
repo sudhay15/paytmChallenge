@@ -1,4 +1,4 @@
-# paytmChallenge
+# PaytmChallenge
 
 # Sunil Udhayakumar
   sunil.t.udhayakumar@gmail.com 
