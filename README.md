@@ -1,5 +1,8 @@
 # paytmChallenge
 
+# By Sunil Udhayakumar
+  sunil.t.udhayakumar@gmail.com 
+
 #The task is to create a ranking list for merchants depending upon various criterias. A merchant score is created using normalisation and z-scoring. 
 # criterias used for ranking the merchants
    -> Number of orders
