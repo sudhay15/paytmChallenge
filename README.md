@@ -11,6 +11,6 @@
   
   # Interesting discoveries
   
-  # There were a few merchants who sold products with selling price higher than the Quoted Price. - These Merchants also suffered from high cancellations and returns.
+    There were a few merchants who sold products with selling price higher than the Quoted Price. - These Merchants also suffered from high cancellations and returns.
        -> The list is also attached as "invalid_sales.csv"
     
